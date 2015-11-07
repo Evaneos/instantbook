@@ -35,7 +35,7 @@ public final class CalendarHelper {
         Cursor cursor = context.getContentResolver().query( //
                 CalendarContract.Events.CONTENT_URI, //
                 null, //
-                CalendarContract.Events.OWNER_ACCOUNT + "=?" +
+                CalendarContract.Events.ACCOUNT_NAME + "=?" +
                         " AND ((" + //
                         CalendarContract.Events.DTSTART + "<? AND " + //
                         CalendarContract.Events.DTEND + ">?)" +
