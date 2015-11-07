@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.TextAppearance" />
+
+    <style name="TextAppearance" />
+
+    <style name="TextAppearance.ListItem" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+    <style name="TextAppearance.Dialog.Title" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textColor">@color/red_500</item>
+    </style>
+
+    <style name="TextAppearance.Dialog.Content" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@color/soil</item>
+    </style>
+</resources>

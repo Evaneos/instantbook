@@ -1,0 +1,11 @@
+<resources>
+    <string name="action_is_booking">Salle en cours de réservation&#8230;</string>
+    <string name="dialogTitle_readCalendar_permision">Pourquoi demander l\'accès à vos calendrier ?</string>
+    <string name="dialogContent_readCalendar_permision">Sans cet accès nous ne pouvons pas vous dire si une salle est libre ou occupée !</string>
+    <string name="action_understood">Compris</string>
+    <string name="dialogTitle_writeCalendar_permision">Pourquoi demander le droit de modifier vos agendas ?</string>
+    <string name="dialogContent_writeCalendar_permision">Afin de pouvoir réserver une salle, nous avons besoin des droits de modification !</string>
+    <string name="text_useless_app_without_permissions">Cette application est inutile sans les permissions demandées</string>
+    <string name="title_defaultReservation">Salle réservée</string>
+    <string name="text_cannot_be_in_two_at_the_same_time">Vous ne pouvez pas être à deux endroits en même temps !</string>
+</resources>

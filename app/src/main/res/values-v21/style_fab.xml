@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name='Widget.Fab' parent="Base.Widget.Fab">
+        <item name="android:elevation">6dp</item>
+        <item name="android:translationZ">6dp</item>
+        <item name="android:stateListAnimator">@animator/fab_elevation</item>
+    </style>
+</resources>

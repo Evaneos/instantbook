@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_700">#DE1B0D</color>
+    <color name="red_500">#f34235</color>
+    <color name="red_500_alpha">#80f34235</color>
+
+    <color name="orange_500">#f79400</color>
+    <color name="orange_500_alpha">#80f79400</color>
+
+    <color name="gold">#fdca30</color>
+
+    <color name="pool_500">#4ba6f5</color>
+    <color name="pool_500_alpha">#554ba6f5</color>
+    <color name="pool_300">#85C3F8</color>
+
+    <color name="lime_500">#33cc99</color>
+    <color name="lime_500_alpha">#8033cc99</color>
+    <color name="lime_300">#64D8B1</color>
+
+    <color name="white_soil">#f9f3eb</color>
+    <color name="bright_soil">#f4e8d8</color>
+    <color name="light_soil">#c5ac93</color>
+    <color name="soil">#96704d</color>
+    <color name="deep_soil">#49301f</color>
+    <color name="dark_soil">#1e140b</color>
+
+    <color name="lightControlHighLight">#42FFFFFF</color>
+    <color name="darkControlHighLight">#1F000000</color>
+</resources>
